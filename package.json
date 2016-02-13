@@ -1,0 +1,18 @@
+{
+  "name": "treeGa",
+  "version": "1.0.0",
+  "description": "Actions tree for Google Analytics",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilya anisimov",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "6.1.21",
+    "babel-loader": "6.1.0",
+    "babel-preset-es2015": "6.3.13",
+    "lodash": "4.3.0",
+    "webpack": "1.12.5"
+  }
+}
